@@ -6,7 +6,7 @@ HyperMart Nigeria Ltd. is a multi-department retail chain operating across nine 
 
 The project covers 20 SQL problems mapped to real business needs from department revenue reporting to automated audit triggers using a realistic 500-row transactional dataset.
 
-🗂️ Repository Structure
+Repository Structure
 
 hypermart-postgresql/
 ├── dataset/
